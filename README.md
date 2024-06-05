@@ -1,2 +1,2 @@
 # shahid-delta
-This repository having some projects.
+This repository having some web projects.
